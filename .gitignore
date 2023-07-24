@@ -1,0 +1,7 @@
+# virtualenv
+venv/
+ENV/
+# dotenv
+.env
+
+project_root/media/
